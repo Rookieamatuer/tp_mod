@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{75D2B572-43AF-08A4-95B8-C59BD2322AAB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "tps_mod",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
